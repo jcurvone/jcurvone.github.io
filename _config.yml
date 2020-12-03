@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
+title:       "Covid Prevention Verification App"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+description: "This application is a covidapp proof-of-test-result and proof-of-vaccination-built lockbox built on the Ethereum blockchain, so that your status can go with you anywhere your phone goes. Your healthcare provider can use the interface to upload your COVID test results or your Proof of Vaccine in a secure, and confidental manner."
+source_link: "https://jcurvone.github.io/"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
